@@ -1,1 +1,1 @@
-# MAchine-Learning-Implementations
+# Machine-Learning-Implementations
